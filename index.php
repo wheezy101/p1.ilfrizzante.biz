@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />   
-    <link rel="stylesheet" href="css/aboutme.css" type="text/css" />
+    <link rel="stylesheet" href="aboutme.css" type="text/css" />
     <title>About Me</title>
 </head>
 <body>
